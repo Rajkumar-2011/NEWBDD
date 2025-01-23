@@ -39,11 +39,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>SeleniumTutorial</groupId>
-    	<artifactId>RESTASSURED</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+ 
 
   </dependencies>
 </project>
